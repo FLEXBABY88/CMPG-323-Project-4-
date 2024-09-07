@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="LX5iXeWPD0qS7RUpMHCH_w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://techtrendstelemetryportal.azurewebsites.net/clients" CVScreenId="a69ec580-acdd-4327-b4ca-0ab553453094" CvElementArea="1216, 326, 24, 23" CvType="Icon" DesignTimeRectangle="1219, 329, 18, 16" DesignTimeScaleFactor="1" FuzzyAccuracy="1" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl type='' tag='I' class='fas fa-edit' aaname='' /&gt;" Guid="48264da4-bee4-4337-b57f-f631118a2a65" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABYAAAAUCAYAAACJfM0wAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEYSURBVDhPzdQ/isJAFMdxb2HpLWy9gZ2tF5CQXhC2UGy0CWLnNivYbLFgISGmio1GRAgIIhYSttggEuYCv00wgzOaPOM/sPhW7+WTKYbJMMbwit4U9n8x7BrIqiZatifNHoAPsD51ZCqjY4qBhoBH8B7WwESOLxHlNAdecFJrugPbLFBWhbkygSXDK9SEj5PK1udwDjt8t48nLf3IeD74qRsPTzCOBrH5J5THcUVbwvFPu+nhGJSnmH8X++lgAs235ZPyrsN3oGE0fCcaRsL2F4EGt6OvzWAL+2IE7KL3kYD6LvrN8305At6iU41Dk/blCHiNRnjxVR2FqoGidE8fgqluhm/tKpz+ERIrDtbwzkBeBD+/F8EM/7XlrEeotJftAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;html app='chrome.exe' title='techtrendstelemetryportal.azurewebsites.net/clients' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="a69ec580-acdd-4327-b4ca-0ab553453094" CvElementArea="1240, 327, 20, 20" CvTextArea="1245, 331, 8, 11" CvType="Icon" DesignTimeRectangle="1242, 329, 16, 16" FuzzyAccuracy="1" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl class='fas fa-info-circle' type='' tag='I' aaname='' /&gt;" Guid="5d25c33e-933b-4d19-a07d-c42fe308a87f" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEzSURBVDhPvZSxSsNAGMfzFnkERx+hb5Ctr9CldCpCkRY6tDi0QwfXbI4KAYe21KMgIq0JIhy4hFDkKEKHEO4F/rZNxHj3XRQ8HH7T9/9+5Lv7co6UEjb5R6FIcBuscDZiqJ0v4I3uMQ44QpHS+QJdmG5wNVnAbU7hGKhNnsFTpa/gu3D3il6Hlqi4nQfc7Uq9BV/C7A3+gGhuzVG/YDhp6TV3EIFnBqGYLYkx5xiGWR4OH3Gq1adozN4p4QaXXT38G6HTfQLXhNsXNKjwgYqRc5a43qrCJIJHhfsR4iLIb5heP8LgJ6owNgjbDON1fkZxUCGMVWHFyF4gfhBSI5supfSFYr1CvU1kyEs5NFBrUzpDKQX8vlLfY1ibPabFrqBysY9Y/fU+sfo4lLH2fP0Ry0KJD2SR3yXIQ8T9AAAAAElFTkSuQmCC" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="935bbc58fc1a476cb5ff392eeaf1d5da.png" xmlns="">0soGRB07W70eSFMid0WIdWA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

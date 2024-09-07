@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="0MSBSzCs6kKgpTlSIgHoxQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://techtrendstelemetryportal.azurewebsites.net/create-client" CVScreenId="669795b3-e582-45e7-bf43-6a2df8280d73" CvTextArea="301, 420, 88, 19" CvTextArgument="yyyy/mm/dd" CvType="Text" DesignTimeRectangle="290, 410, 1060, 38" DesignTimeScaleFactor="1" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='dateOnboarded' tag='INPUT' type='date' class='form-control valid' aaname='Date Onboarded' /&gt;" Guid="b790ac2a-1b76-4cda-97ae-534d0465f90b" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='techtrendstelemetryportal.azurewebsites.net/create-client' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="669795b3-e582-45e7-bf43-6a2df8280d73" CvTextArea="289, 389, 120, 15" CvTextArgument="Date Onboarded" CvType="Text" DesignTimeRectangle="290, 386, 118, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Date Onboarded' tag='LABEL' type='' class='' check:innerText='Date Onboarded' /&gt;" Guid="1219f142-1eb3-4d59-9a7d-0bf64fbf6931" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="cf5e04f7c186960ab74315fe6d07040c.png" xmlns="">078oAWLTmVE2EnLlzZrgHSg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

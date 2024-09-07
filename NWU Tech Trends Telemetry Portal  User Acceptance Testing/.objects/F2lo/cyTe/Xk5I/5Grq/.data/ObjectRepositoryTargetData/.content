@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="5QGl3Ce46E2XTis29iPNzA" Reference="BDs-QfRG90WQo-T0D09TkQ/5Grq3j-c6EqP5OVJ4qDZ9Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://techtrendstelemetryportal.azurewebsites.net/delete-project/01a3c810-40cb-4bce-a8cf-0f1f3d49f478" CVScreenId="85601ef1-4c92-429c-844a-cb10e57feb63" CvElementArea="288, 300, 76, 40" CvTextArea="302, 312, 48, 15" CvTextArgument="Delete" CvType="Button" DesignTimeRectangle="290, 302, 72, 38" DesignTimeScaleFactor="1" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aaname='Delete' tag='BUTTON' type='' class='btn btn-danger' check:innerText='Delete' /&gt;" Guid="516bc20f-fb84-43d1-aae6-931ea7b75f80" ScopeSelectorArgument="&lt;html app='chrome.exe' title='techtrendstelemetryportal.azurewebsites.net/delete-project/01a3c810-40cb-4bce-a8cf-0f1f3d49f478' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="85601ef1-4c92-429c-844a-cb10e57feb63" CvElementArea="366, 300, 79, 41" CvTextArea="378, 312, 53, 15" CvTextArgument="Cancel" CvType="Button" DesignTimeRectangle="367, 302, 76, 38" ElementType="Text" FuzzyAccuracy="1" FuzzySelectorArgument="&lt;webctrl aaname='Cancel' tag='A' type='' class='btn btn-secondary' check:innerText='Cancel' /&gt;" Guid="ebf1324a-046c-4262-b420-ee48babca173" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="7783c37670b46a3285b000fdfc6f76ca.png" xmlns="">0A7zwt4tCnUOeZkpIZZp0wg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

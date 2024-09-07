@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="qAFckIcEXk2H-6SbCQYOlQ" Reference="BDs-QfRG90WQo-T0D09TkQ/w-AZzvZC9E6XIzWRDt3Jrg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://techtrendstelemetryportal.azurewebsites.net/edit-client/642c29cc-a51a-46ce-96f5-01c6a707b5f8" CVScreenId="b1507b16-7564-4e9d-952a-345d8e19b7f7" CvElementArea="356, 394, 75, 41" CvTextArea="369, 406, 48, 15" CvTextArgument="Delete" CvType="Button" DesignTimeRectangle="357, 396, 72, 38" DesignTimeScaleFactor="1" ElementType="Text" FuzzyAccuracy="0.93" FuzzySelectorArgument="&lt;webctrl aaname='Delete' tag='A' type='' class='btn btn-secondary' check:innerText='Delete' /&gt;" Guid="9335a61c-edf5-4d0f-ad32-a7d0c4dedc88" ScopeSelectorArgument="&lt;html app='chrome.exe' title='techtrendstelemetryportal.azurewebsites.net/edit-client/642c29cc-a51a-46ce-96f5-01c6a707b5f8' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="8dc5fa0f589d36867a61aba5be40d062.png" xmlns="">0tk8wjTDRFkmltV4H3JTtiA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

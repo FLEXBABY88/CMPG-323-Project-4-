@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="h8mJbBU2H0OGdM0sc9NzGg" Reference="BDs-QfRG90WQo-T0D09TkQ/E8qEExy_ZUaZXrEbq5pSdA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://techtrendstelemetryportal.azurewebsites.net/edit-client/642c29cc-a51a-46ce-96f5-01c6a707b5f8" CVScreenId="b1507b16-7564-4e9d-952a-345d8e19b7f7" CvElementArea="433, 394, 109, 41" CvTextArea="446, 406, 85, 15" CvTextArgument="Back to List" CvType="Button" DesignTimeRectangle="434, 396, 108, 38" DesignTimeScaleFactor="1" ElementType="Text" FuzzyAccuracy="0.88" FuzzySelectorArgument="&lt;webctrl aaname='Back to List' tag='A' type='' class='btn btn-secondary' check:innerText='Back to List' /&gt;" Guid="e27d24b2-a09b-436a-9340-62311a0470e5" ScopeSelectorArgument="&lt;html app='chrome.exe' title='techtrendstelemetryportal.azurewebsites.net/edit-client/642c29cc-a51a-46ce-96f5-01c6a707b5f8' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="15bdf6a1d064b134d00bd4e05b87b0a1.png" xmlns="">0LuKOi_9oX0qswh_ly3LF_Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

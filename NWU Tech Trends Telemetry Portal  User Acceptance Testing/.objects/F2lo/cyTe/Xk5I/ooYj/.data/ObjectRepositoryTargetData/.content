@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="X8caSDypHUK5NcKTariuAA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://techtrendstelemetryportal.azurewebsites.net/projects" CVScreenId="a32b4a01-3174-4e42-8fe9-08046fc725b5" CvTextArea="1012, 376, 66, 15" CvTextArgument="Client ID" CvType="Text" DesignTimeRectangle="1005, 341, 241, 64" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl aaname='Client ID' type='' tag='TH' class='' check:innerText='Client ID' /&gt;" Guid="4eb91270-1a42-4a68-9245-03a261aa3fd2" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Projects' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="a32b4a01-3174-4e42-8fe9-08046fc725b5" CvTextArea="1252, 376, 61, 15" CvTextArgument="Actions" CvType="Text" DesignTimeRectangle="1246, 341, 75, 64" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl aaname='Actions' type='' tag='TH' class='' check:innerText='Actions' /&gt;" Guid="964e7c84-d560-424f-897f-d7ea26e6e26e" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="6aa46d90c34bf31a97ec51f1b2be96e5.png" xmlns="">0Fgd_zg7L4Ua1N9wUTvIviA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

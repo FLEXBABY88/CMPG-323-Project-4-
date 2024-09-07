@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="m9v_Dlq8nkqbmyBmqjio0g" Reference="BDs-QfRG90WQo-T0D09TkQ/Y0s7XsJHq0SwkckQeBhkMw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://techtrendstelemetryportal.azurewebsites.net/create-client" CVScreenId="b5d55ab2-b9f1-4cee-8942-4880a4e661de" CvElementArea="289, 447, 77, 40" CvTextArea="302, 458, 50, 15" CvTextArgument="Create" CvType="Button" DesignTimeRectangle="290, 448, 74, 38" DesignTimeScaleFactor="1" ElementType="Button" FuzzyAccuracy="0.95" FuzzySelectorArgument="&lt;webctrl aaname='Create' tag='BUTTON' type='submit' class='btn btn-primary' check:innerText='Create' /&gt;" Guid="d137a7e5-27f8-459e-bac8-e130674daa1d" ScopeSelectorArgument="&lt;html app='chrome.exe' title='techtrendstelemetryportal.azurewebsites.net/create-client' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="830008f411a658e98424c981ac6777f9.png" xmlns="">0UBMkSibDIEKTuDBDcdDjEA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

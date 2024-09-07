@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="zRBA2DUtR0epCSnjqVO6dg" Reference="BDs-QfRG90WQo-T0D09TkQ/w3zAWRNbyE6qGl7l0muoIg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://techtrendstelemetryportal.azurewebsites.net/edit-client/642c29cc-a51a-46ce-96f5-01c6a707b5f8" CVScreenId="b1507b16-7564-4e9d-952a-345d8e19b7f7" CvElementArea="289, 394, 65, 41" CvTextArea="302, 406, 38, 15" CvTextArgument="Save" CvType="Button" DesignTimeRectangle="290, 396, 62, 38" DesignTimeScaleFactor="1" ElementType="Button" FuzzyAccuracy="0.88" FuzzySelectorArgument="&lt;webctrl aaname='Save' tag='BUTTON' type='submit' class='btn btn-primary' check:innerText='Save' /&gt;" Guid="520c5d16-30fa-408b-940b-e1306cb53aac" ScopeSelectorArgument="&lt;html app='chrome.exe' title='techtrendstelemetryportal.azurewebsites.net/edit-client/642c29cc-a51a-46ce-96f5-01c6a707b5f8' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d519fd7bac69af7529af20d056588746.png" xmlns="">0HcMQxBbm9U25jMDhxEMqDA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

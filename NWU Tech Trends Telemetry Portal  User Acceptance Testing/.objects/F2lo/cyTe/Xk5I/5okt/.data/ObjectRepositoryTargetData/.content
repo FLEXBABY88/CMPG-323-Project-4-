@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="8nB3-_m5ZUCVd-O0KZsCIg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://techtrendstelemetryportal.azurewebsites.net/edit-project/a87bfb9b-b5e3-450c-aaf1-0a0593924ee3" CVScreenId="73ea5ad9-a551-41c6-8891-3f82b51a9f57" CvElementArea="288, 570, 65, 41" CvTextArea="302, 582, 38, 15" CvTextArgument="Save" CvType="Button" DesignTimeRectangle="290, 572, 62, 38" DesignTimeScaleFactor="1" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aaname='Save' tag='BUTTON' type='submit' class='btn btn-primary' check:innerText='Save' /&gt;" Guid="d0fed64f-c80c-45ae-9112-879cae6b1ce6" ScopeSelectorArgument="&lt;html app='chrome.exe' title='techtrendstelemetryportal.azurewebsites.net/edit-project/a87bfb9b-b5e3-450c-aaf1-0a0593924ee3' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="73ea5ad9-a551-41c6-8891-3f82b51a9f57" CvElementArea="356, 570, 110, 41" CvTextArea="369, 582, 85, 15" CvTextArgument="Back to List" CvType="Button" DesignTimeRectangle="357, 572, 109, 38" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Back to List' tag='A' type='' class='btn btn-secondary' check:innerText='Back to List' /&gt;" Guid="f9eac6f9-e478-4ac3-ab8e-46e6a57457df" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="046e8add1f4714465a04bcb0d4d0d607.png" xmlns="">0O69IqPkEREWC_p9z_9yWtw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

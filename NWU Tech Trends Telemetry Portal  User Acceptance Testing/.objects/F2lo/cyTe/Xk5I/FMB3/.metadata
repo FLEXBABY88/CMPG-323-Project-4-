@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Click 'Project Name'",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "FMB3Y1zzGEuV4yTHkRtjIw",
+  "Reference": "BDs-QfRG90WQo-T0D09TkQ/FMB3Y1zzGEuV4yTHkRtjIw",
+  "ParentRef": "BDs-QfRG90WQo-T0D09TkQ/Xk5IXewGi0eNXkKykFvUpw",
+  "Created": "2024-09-07T12:42:33.8549912Z",
+  "Updated": "2024-09-07T12:42:33.8549912Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

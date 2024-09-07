@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Fy0YMNE7nU61-BG1hgyswg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://techtrendstelemetryportal.azurewebsites.net/edit-project/a87bfb9b-b5e3-450c-aaf1-0a0593924ee3" CVScreenId="e47fbc93-3e3e-4344-8bcf-f20c3a0c57d0" CvElementArea="285, 469, 1069, 43" CvType="InputBox" DesignTimeRectangle="290, 472, 1060, 38" DesignTimeScaleFactor="1" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='projectStatus' tag='INPUT' type='' class='form-control valid' aaname='Project Status' /&gt;" Guid="f3411468-bbe0-4482-92e9-accc58ca2df7" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='techtrendstelemetryportal.azurewebsites.net/edit-project/a87bfb9b-b5e3-450c-aaf1-0a0593924ee3' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="e47fbc93-3e3e-4344-8bcf-f20c3a0c57d0" CvTextArea="289, 451, 101, 18" CvTextArgument="Project Status" CvType="Text" DesignTimeRectangle="290, 448, 100, 24" ElementType="Text" FuzzyAccuracy="0.98" FuzzySelectorArgument="&lt;webctrl aaname='Project Status' tag='LABEL' type='' class='' check:innerText='Project Status' /&gt;" Guid="9237473b-8300-454c-9ce6-f0169cda972c" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="3359b57747ac8792652a988f20855ff1.png" xmlns="">0B2OQzgDCsE29oXkoQxsiZQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

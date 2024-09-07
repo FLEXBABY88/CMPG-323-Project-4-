@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="A1Rpy19mmE28bzurRkvjZg" Reference="BDs-QfRG90WQo-T0D09TkQ/f2SaGBGIUU65GvzxQk4GRA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://techtrendstelemetryportal.azurewebsites.net/edit-project/a87bfb9b-b5e3-450c-aaf1-0a0593924ee3" CVScreenId="1b187a72-f476-4921-8ed4-e0f03c252df8" CvElementArea="288, 347, 1061, 40" CvType="InputBox" DesignTimeRectangle="290, 348, 1060, 38" DesignTimeScaleFactor="1" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='projectDescription' tag='INPUT' type='' class='form-control valid' aaname='Project Description' /&gt;" Guid="c939fc1a-3422-4abd-af8b-9814c5f42409" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='techtrendstelemetryportal.azurewebsites.net/edit-project/a87bfb9b-b5e3-450c-aaf1-0a0593924ee3' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="1b187a72-f476-4921-8ed4-e0f03c252df8" CvTextArea="289, 327, 136, 18" CvTextArgument="Project Description" CvType="Text" DesignTimeRectangle="290, 324, 134, 24" ElementType="Text" FuzzyAccuracy="0.92" FuzzySelectorArgument="&lt;webctrl aaname='Project Description' tag='LABEL' type='' class='' check:innerText='Project Description' /&gt;" Guid="b5f1071a-7e44-4a54-8699-dbf592257545" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="77735c2cec12c3adee28a3533aea4d26.png" xmlns="">0aNPiJNQPCUu98Y_bc1aBrg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

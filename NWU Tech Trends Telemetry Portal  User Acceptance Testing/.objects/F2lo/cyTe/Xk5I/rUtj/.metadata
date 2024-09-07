@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Click 'Log in'",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "rUtjkbY_g02yHXKxb6UWmg",
+  "Reference": "BDs-QfRG90WQo-T0D09TkQ/rUtjkbY_g02yHXKxb6UWmg",
+  "ParentRef": "BDs-QfRG90WQo-T0D09TkQ/Xk5IXewGi0eNXkKykFvUpw",
+  "Created": "2024-09-05T06:13:47.2042738Z",
+  "Updated": "2024-09-05T06:13:47.2042738Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

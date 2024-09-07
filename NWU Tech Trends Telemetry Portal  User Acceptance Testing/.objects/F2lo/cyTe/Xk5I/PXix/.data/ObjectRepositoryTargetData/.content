@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ylSi9r10YUmB0XhztxdkcQ" Reference="BDs-QfRG90WQo-T0D09TkQ/PXixot6T9UaU-lfqbd3_CA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://techtrendstelemetryportal.azurewebsites.net/create-client" CVScreenId="5fb397b8-a546-4974-93f4-ca1bb6dcb632" CvElementArea="289, 346, 1062, 41" CvType="InputBox" DesignTimeRectangle="290, 348, 1060, 38" DesignTimeScaleFactor="1" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='primaryContactEmail' tag='INPUT' type='' class='form-control valid' aaname='Primary Contact Email' /&gt;" Guid="5678119b-b739-4aa3-9848-a48feb8c1781" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='techtrendstelemetryportal.azurewebsites.net/create-client' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="5fb397b8-a546-4974-93f4-ca1bb6dcb632" CvTextArea="289, 327, 160, 18" CvTextArgument="Primary Contact Email" CvType="Text" DesignTimeRectangle="290, 324, 159, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Primary Contact Email' tag='LABEL' type='' class='' check:innerText='Primary Contact Email' /&gt;" Guid="b233b39f-8a39-4f5b-a206-a98014565377" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b563d3be37982908b71360b3ee550a06.png" xmlns="">0a3jONmkwi025qh6mBA2zJQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

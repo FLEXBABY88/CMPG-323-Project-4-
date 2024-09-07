@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Ot-KbBAtkEqTtAO2QJ9uow" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://techtrendstelemetryportal.azurewebsites.net/delete-project/4f5eb135-9af0-44e5-a3c0-129c02674a02" CVScreenId="af9ab3e2-c9c9-4110-b444-d0099357c7f2" CvElementArea="288, 300, 76, 40" CvTextArea="302, 312, 48, 15" CvTextArgument="Delete" CvType="Button" DesignTimeRectangle="290, 302, 72, 38" DesignTimeScaleFactor="1" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aaname='Delete' tag='BUTTON' type='' class='btn btn-danger' check:innerText='Delete' /&gt;" Guid="e07d6d3b-8ef0-475c-95eb-9698378739fd" ScopeSelectorArgument="&lt;html app='chrome.exe' title='techtrendstelemetryportal.azurewebsites.net/delete-project/4f5eb135-9af0-44e5-a3c0-129c02674a02' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="af9ab3e2-c9c9-4110-b444-d0099357c7f2" CvTextArea="289, 224, 179, 31" CvTextArgument="Delete Project" CvType="Text" DesignTimeRectangle="290, 221, 1060, 33" ElementType="Text" FuzzyAccuracy="0.98" FuzzySelectorArgument="&lt;webctrl tag='H3' type='' class='' aaname='Delete Project' check:innerText='Delete Project' /&gt;" Guid="4ef37a21-d98d-4c26-a6a7-95f938e57c40" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e5ddb3a3b208065a1eabf3042a176816.png" xmlns="">0ZDdDPT8KDEGSInrVMkkzlQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

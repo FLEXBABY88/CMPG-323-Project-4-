@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="0xGNfiYoHkOrXNzcH_gWdQ" Reference="BDs-QfRG90WQo-T0D09TkQ/JvBx-xLYSk2o9jvQvKBj_g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://techtrendstelemetryportal.azurewebsites.net/projects" CVScreenId="4a800884-354b-479f-9fdf-ced57c1cc30e" CvElementArea="1231, 274, 109, 47" CvType="Button" DesignTimeRectangle="1231, 275, 107, 44" DesignTimeScaleFactor="1" ElementType="Button" FuzzyAccuracy="0.95" FuzzySelectorArgument="&lt;webctrl aaname=' Create         ' tag='BUTTON' type='' class='btn beveled-button-primary' check:innerText='Create' /&gt;" Guid="efc8580b-84ef-4b41-a8db-c51b753b83ca" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Projects' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="460b753fac9c4a24ef211341a1a633e2.png" xmlns="">0GkuaNVtDlUyq9RjpVwVkpg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

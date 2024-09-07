@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="BV9DLLdcKkmRf7sOwaKggw" Reference="BDs-QfRG90WQo-T0D09TkQ/4q3DK4rwp0y980QdQqsDag" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://techtrendstelemetryportal.azurewebsites.net/create-project" CVScreenId="505fd227-853c-4b00-86ec-b06647274a98" CvTextArea="301, 419, 88, 19" CvTextArgument="yyyy/mm/dd" CvType="Text" DesignTimeRectangle="290, 410, 1060, 38" DesignTimeScaleFactor="1" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='projectCreationDate' tag='INPUT' type='date' class='form-control valid' aaname='Project Creation Date' /&gt;" Guid="6332ebac-bcbc-48ee-b920-3c4a9cb30185" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='techtrendstelemetryportal.azurewebsites.net/create-project' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="505fd227-853c-4b00-86ec-b06647274a98" CvTextArea="289, 389, 154, 18" CvTextArgument="Project Creation Date" CvType="Text" DesignTimeRectangle="290, 386, 153, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Project Creation Date' tag='LABEL' type='' class='' check:innerText='Project Creation Date' /&gt;" Guid="9d2eab5a-c41c-4b01-b8e4-79ccb304e7e0" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="072153bd816d12dd0d1aa647a4ef91c1.png" xmlns="">0z-f0YauY6U--hNGdH1hwcQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
