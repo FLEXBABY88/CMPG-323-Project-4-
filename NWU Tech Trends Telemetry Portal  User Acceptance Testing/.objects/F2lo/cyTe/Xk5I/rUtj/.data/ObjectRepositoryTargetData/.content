@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="psJxdf-s0kafZt_F6fI7bA" Reference="BDs-QfRG90WQo-T0D09TkQ/rUtjkbY_g02yHXKxb6UWmg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="HCMTuXAXz069woTWHT2EMA" Reference="BDs-QfRG90WQo-T0D09TkQ/rUtjkbY_g02yHXKxb6UWmg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
     <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://techtrendstelemetryportal.azurewebsites.net/Account/Login" CVScreenId="82ab5851-b39e-489a-b938-0ea8e4b20808" CvElementArea="289, 520, 379, 51" CvTextArea="450, 536, 57, 23" CvTextArgument="Log in" CvType="Button" DesignTimeRectangle="290, 522, 377, 48" DesignTimeScaleFactor="1" ElementType="Button" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='submit' class='w-100 btn btn-lg btn-primary' aaname='Log in' check:innerText='Log in' /&gt;" Guid="f96a7801-f2c8-4388-8071-3ff6e7d8f576" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Log in' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="f6ed6938e480614d2234e7172eb7fef4.png" xmlns="">0GFsNME62Nk2sLGumsGVeHQ</imageRef>
+      <imageRef attrName="InformativeScreenshot" originalValue="f6ed6938e480614d2234e7172eb7fef4.png" xmlns="">088Se5BkXfUePfJrsWuJGEw</imageRef>
     </TargetAnchorable>
     <x:String x:Key="ActivityType">Click</x:String>
   </ObjectRepositoryTargetData.Data>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="ldrCsTIZTEqMG_YT4K9d-w" Reference="BDs-QfRG90WQo-T0D09TkQ/G3e5yY1tBEqzxRndGc5IXw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="ydQczPl5rE2JJFMk4VYL_Q" Reference="BDs-QfRG90WQo-T0D09TkQ/G3e5yY1tBEqzxRndGc5IXw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
     <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://techtrendstelemetryportal.azurewebsites.net/Account/Login" CVScreenId="82ab5851-b39e-489a-b938-0ea8e4b20808" CvElementArea="288, 399, 380, 60" CvType="InputBox" DesignTimeRectangle="290, 400, 377, 58" DesignTimeScaleFactor="1" ElementType="InputBoxPassword" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='password' class='form-control valid' placeholder='password' aaname='' /&gt;" Guid="76b6344f-0fcd-4d9a-9b5f-8b60caf6a620" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Log in' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
       <TargetAnchorable.Anchors>
@@ -7,7 +7,7 @@
           <Target CVScreenId="82ab5851-b39e-489a-b938-0ea8e4b20808" CvElementArea="288, 399, 380, 60" CvType="InputBox" DesignTimeRectangle="292, 393, 82, 49" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Password' tag='LABEL' type='' class='form-label' check:innerText='Password' /&gt;" Guid="2b57ab54-8a0f-41a8-bac9-cdb15a60232e" SearchSteps="FuzzySelector, CV" />
         </scg:List>
       </TargetAnchorable.Anchors>
-      <imageRef attrName="InformativeScreenshot" originalValue="f04e3bd0d9ce5fa7f853751abda183c5.png" xmlns="">0rSfIeMo5K0u8BGeHxB93SQ</imageRef>
+      <imageRef attrName="InformativeScreenshot" originalValue="f04e3bd0d9ce5fa7f853751abda183c5.png" xmlns="">0jfkCtHTiS06gIWAxyiGpSA</imageRef>
     </TargetAnchorable>
     <x:String x:Key="ActivityType">Click</x:String>
   </ObjectRepositoryTargetData.Data>

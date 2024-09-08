@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="pM8ULV3mqUyfZq5e7l3Wug" Reference="BDs-QfRG90WQo-T0D09TkQ/f-Bc-Wf_O0irvXIW-DBZ8w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="nsqm5TK0jUKoP4NyV4Rm4Q" Reference="BDs-QfRG90WQo-T0D09TkQ/f-Bc-Wf_O0irvXIW-DBZ8w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
     <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://techtrendstelemetryportal.azurewebsites.net/delete-client/642c29cc-a51a-46ce-96f5-01c6a707b5f8" CVScreenId="9462bdbb-387d-47ae-b5f2-5e821c33259c" DesignTimeRectangle="290, 250, 72, 38" DesignTimeScaleFactor="1" ElementType="Button" FuzzyAccuracy="0.89" FuzzySelectorArgument="&lt;webctrl aaname='Delete' tag='BUTTON' type='' class='btn btn-danger' check:innerText='Delete' /&gt;" Guid="39138988-9ffc-4e60-865a-f66d8745dafe" ScopeSelectorArgument="&lt;html app='chrome.exe' title='techtrendstelemetryportal.azurewebsites.net/delete-client/642c29cc-a51a-46ce-96f5-01c6a707b5f8' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="31847c575234a877bb8a61ca94984b3a.png" xmlns="">0epSCPsnVA0apOVkmWlM9Fw</imageRef>
+      <imageRef attrName="InformativeScreenshot" originalValue="31847c575234a877bb8a61ca94984b3a.png" xmlns="">0pPl-joJBiU2Qqxztaj290Q</imageRef>
     </TargetAnchorable>
     <x:String x:Key="ActivityType">Click</x:String>
   </ObjectRepositoryTargetData.Data>

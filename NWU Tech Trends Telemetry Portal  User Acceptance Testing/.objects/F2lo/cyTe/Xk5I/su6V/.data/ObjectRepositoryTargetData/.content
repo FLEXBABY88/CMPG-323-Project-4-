@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="k6FkqEUTckySCiGmXfBdnA" Reference="BDs-QfRG90WQo-T0D09TkQ/su6VPgXL7Ua4nOTZKFRoqQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="PpDsHLxYSkiDx35zv7rV7A" Reference="BDs-QfRG90WQo-T0D09TkQ/su6VPgXL7Ua4nOTZKFRoqQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
     <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://techtrendstelemetryportal.azurewebsites.net/edit-project/a87bfb9b-b5e3-450c-aaf1-0a0593924ee3" CVScreenId="1b187a72-f476-4921-8ed4-e0f03c252df8" CvTextArea="301, 420, 83, 15" CvTextArgument="2023/02/20" CvType="Text" DesignTimeRectangle="290, 410, 1060, 38" DesignTimeScaleFactor="1" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='projectCreationDate' tag='INPUT' type='date' class='form-control valid' aaname='Project Creation Date' /&gt;" Guid="df02484d-f3aa-49e8-99ce-b7183c3a01e6" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='techtrendstelemetryportal.azurewebsites.net/edit-project/a87bfb9b-b5e3-450c-aaf1-0a0593924ee3' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
       <TargetAnchorable.Anchors>
@@ -7,7 +7,7 @@
           <Target CVScreenId="1b187a72-f476-4921-8ed4-e0f03c252df8" CvTextArea="289, 389, 154, 18" CvTextArgument="Project Creation Date" CvType="Text" DesignTimeRectangle="290, 386, 153, 24" ElementType="Text" FuzzyAccuracy="1" FuzzySelectorArgument="&lt;webctrl aaname='Project Creation Date' tag='LABEL' type='' class='' check:innerText='Project Creation Date' /&gt;" Guid="cb9f39c8-cd9e-4f45-9738-755cccedc295" SearchSteps="FuzzySelector, CV" />
         </scg:List>
       </TargetAnchorable.Anchors>
-      <imageRef attrName="InformativeScreenshot" originalValue="00a9f188d5d11bcaaa4db534b04b308c.png" xmlns="">0sjNcp7LVx0OxSnaZ6_F0mg</imageRef>
+      <imageRef attrName="InformativeScreenshot" originalValue="00a9f188d5d11bcaaa4db534b04b308c.png" xmlns="">06EhF7uPTOU2hEdKitJ-27g</imageRef>
     </TargetAnchorable>
     <x:String x:Key="ActivityType">Click</x:String>
   </ObjectRepositoryTargetData.Data>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="X4gPYqHxWkaBiNNWxwktVQ" Reference="BDs-QfRG90WQo-T0D09TkQ/a5Se1UXKn0C7PT9RllNUng" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="cjnWxvoT_kWg16xW_mnfgA" Reference="BDs-QfRG90WQo-T0D09TkQ/a5Se1UXKn0C7PT9RllNUng" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
     <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://techtrendstelemetryportal.azurewebsites.net/edit-client/642c29cc-a51a-46ce-96f5-01c6a707b5f8" CVScreenId="b1507b16-7564-4e9d-952a-345d8e19b7f7" CvElementArea="287, 233, 1066, 40" CvType="InputBox" DesignTimeRectangle="290, 234, 1060, 38" DesignTimeScaleFactor="1" ElementType="InputBox" FuzzyAccuracy="0.97" FuzzySelectorArgument="&lt;webctrl id='clientName' tag='INPUT' type='' class='form-control valid' aaname='Client Name' /&gt;" Guid="00d88002-24e5-460a-b352-a4b30b374a11" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='techtrendstelemetryportal.azurewebsites.net/edit-client/642c29cc-a51a-46ce-96f5-01c6a707b5f8' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
       <TargetAnchorable.Anchors>
@@ -7,7 +7,7 @@
           <Target CVScreenId="b1507b16-7564-4e9d-952a-345d8e19b7f7" CvTextArea="289, 213, 90, 15" CvTextArgument="Client Name" CvType="Text" DesignTimeRectangle="290, 210, 88, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='' aaname='Client Name' check:innerText='Client Name' /&gt;" Guid="f1a5e9ba-feb7-40ee-8565-fe29e14407a2" SearchSteps="FuzzySelector, CV" />
         </scg:List>
       </TargetAnchorable.Anchors>
-      <imageRef attrName="InformativeScreenshot" originalValue="4a51a4070496104c89937f50e676dd37.png" xmlns="">0ts45X1zjVEyrYO00QtiMAw</imageRef>
+      <imageRef attrName="InformativeScreenshot" originalValue="4a51a4070496104c89937f50e676dd37.png" xmlns="">0mjfsOVe_gkKtsPB2iuRrcg</imageRef>
     </TargetAnchorable>
     <x:String x:Key="ActivityType">Click</x:String>
   </ObjectRepositoryTargetData.Data>

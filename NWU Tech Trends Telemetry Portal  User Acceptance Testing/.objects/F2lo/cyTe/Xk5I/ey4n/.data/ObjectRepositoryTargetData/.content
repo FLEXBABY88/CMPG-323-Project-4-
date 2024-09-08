@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="cyqVO2mw90WmHa3n9ie2cQ" Reference="BDs-QfRG90WQo-T0D09TkQ/ey4naDzT106na3_RRgSYJA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="85bVCGvN3kqvhkaj0WLzVA" Reference="BDs-QfRG90WQo-T0D09TkQ/ey4naDzT106na3_RRgSYJA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
     <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://techtrendstelemetryportal.azurewebsites.net/projects" CVScreenId="a32b4a01-3174-4e42-8fe9-08046fc725b5" CvTextArea="1012, 376, 66, 15" CvTextArgument="Client ID" CvType="Text" DesignTimeRectangle="1005, 341, 241, 64" DesignTimeScaleFactor="1" ElementType="Text" FuzzyAccuracy="1" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl aaname='Client ID' type='' tag='TH' class='' check:innerText='Client ID' /&gt;" Guid="f2f94216-d316-4892-960d-ddab6d1c9fb4" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Projects' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="91f031af0bda90b3a9efbcaf247ab47e.png" xmlns="">0AlO_c4eklkmsEPzW1nk_mg</imageRef>
+      <imageRef attrName="InformativeScreenshot" originalValue="91f031af0bda90b3a9efbcaf247ab47e.png" xmlns="">0x7Lpz1W2z0Cnhv9hnPNk5Q</imageRef>
     </TargetAnchorable>
     <x:String x:Key="ActivityType">Click</x:String>
   </ObjectRepositoryTargetData.Data>
