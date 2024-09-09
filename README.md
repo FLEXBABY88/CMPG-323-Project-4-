@@ -2,7 +2,9 @@
 
 # Automation in UiPath 
 Automation in UiPath refers to the use of UiPath's platform to create, manage, and execute robotic process automation (RPA) workflows. UiPath is a leading RPA tool that enables businesses to automate repetitive and rule-based tasks across various applications and systems.
---PICTURE ---
+
+
+![image](here)
 
 ## Robotic Process Automation (RPA)
 Definition: RPA involves using software robots or "bots" to automate routine tasks that were previously performed by humans. These tasks often involve interacting with multiple systems, applications, or data sources.
