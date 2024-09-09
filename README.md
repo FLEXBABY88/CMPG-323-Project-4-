@@ -36,5 +36,7 @@ After the creation of records for either Clients or Projects in the website, the
 2. After that it will be asked to confirm the deleting of the record , it confirms by clicking the delete button.
 3. After deleting , it writes 'True' next to the data it deleted in the excel file to indicate the deleting of the record in the website was sucessful .
 
+## Reference list
+![Ref](https://github.com/FLEXBABY88/CMPG-323-Project-4-/blob/main/Reference%20list)
    
 
