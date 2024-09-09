@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="iCxPLDpen0yy_2ywNV0vdg" Reference="BDs-QfRG90WQo-T0D09TkQ/MK_q5j6IBkaw1BRKLLDFAQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="w-FKaNF910CQ5Wcd5RRKxQ" Reference="BDs-QfRG90WQo-T0D09TkQ/MK_q5j6IBkaw1BRKLLDFAQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
     <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://techtrendstelemetryportal.azurewebsites.net/clients" CVScreenId="77b2f9c4-acf6-453f-ab14-ef6758c08b66" CvTextArea="914, 340, 127, 15" CvTextArgument="Date Onboarded" CvType="Text" DesignTimeRectangle="908, 329, 305, 40" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl aaname='Date Onboarded' type='' tag='TH' class='' check:innerText='Date Onboarded' /&gt;" Guid="1e9840c7-dbbf-4416-a78b-0675624fcc43" ScopeSelectorArgument="&lt;html app='chrome.exe' title='techtrendstelemetryportal.azurewebsites.net/clients' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
       <TargetAnchorable.Anchors>
@@ -7,7 +7,7 @@
           <Target CVScreenId="77b2f9c4-acf6-453f-ab14-ef6758c08b66" CvTextArea="915, 381, 166, 16" CvTextArgument="1/15/2023 12:00:00 AM" CvType="Text" DesignTimeRectangle="908, 369, 305, 41" ElementType="Text" FuzzyAccuracy="0.74" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl type='' class='' tag='TD' aaname='1/15/2023 12:00:00 AM' check:innerText='1/15/2023 12:00:00 AM' /&gt;" Guid="a3566c19-25e7-40cb-9c0f-67cfbd30252c" SearchSteps="FuzzySelector, CV" />
         </scg:List>
       </TargetAnchorable.Anchors>
-      <imageRef attrName="InformativeScreenshot" originalValue="1e0cb6d6417565ea42cfffb3eed7c013.png" xmlns="">0yVkopGrsM06MhEJHfJSTKA</imageRef>
+      <imageRef attrName="InformativeScreenshot" originalValue="1e0cb6d6417565ea42cfffb3eed7c013.png" xmlns="">0BBNY69VAmEiI2fE4-Dhs0A</imageRef>
     </TargetAnchorable>
     <x:String x:Key="ActivityType">Click</x:String>
   </ObjectRepositoryTargetData.Data>
